@@ -77,6 +77,14 @@
             <artifactId>icu4j</artifactId>
             <version>77.1</version>
         </dependency>
+        <!-- Dependabot suggested configuration -->
+        <!-- https://mvnrepository.com/artifact/org.json/json -->
+        <dependency>
+            <groupId>org.json</groupId>
+            <artifactId>json</artifactId>
+            <version>20250517</version>
+        </dependency>
+        <!-- End - Dependabot suggested configuration -->
     </dependencies>
 
     <build>
